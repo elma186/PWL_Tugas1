@@ -1,0 +1,17 @@
+.wrap {
+  width: 300px;
+  display: inline-block;
+  height: auto;
+  border: 1px solid gray;
+  padding: 10px;
+  margin: 10px;
+}
+
+.wrap img {
+  width: 30px;
+  height: 20px;
+}
+
+.wrap h2 {
+  text-align: center;
+}
